@@ -32,7 +32,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ``` -->
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Experience
 
@@ -70,12 +69,12 @@ I do not have advanced equipments like SLR camera so I just use my mobile phone.
 
 
 <div class="row">
-                <img src="images/im1.JPG" width = "280">
-                <img src="images/im2.JPG" width = "280">
-                <img src="images/im3.JPG" width = "280">
-                <img src="images/im4.JPG" width = "280">
-                <img src="images/im5_2.JPG" width = "280">
-                <img src="images/im6.JPG" width = "280">
+                <img src="images/im1.JPG" width = "250">
+                <img src="images/im2.JPG" width = "250">
+                <img src="images/im3.JPG" width = "250">
+                <img src="images/im4.JPG" width = "250">
+                <img src="images/im5_2.JPG" width = "250">
+                <img src="images/im6.JPG" width = "250">
 </div>
 
 ### About Reading
@@ -86,10 +85,10 @@ I want to share some books that I like most.
 
 
 <div class="row">
-                <img src="images/bk1.JPG" width = "250">
-                <img src="images/bk2.JPG" width = "250">
-                <img src="images/bk3.JPG" width = "250">
-                <img src="images/bk4.JPG" width = "250">
-                <img src="images/bk5.JPG" width = "250">
-                <img src="images/bk6.JPG" width = "250">
+                <img src="images/bk1.jpg" width = "230">
+                <img src="images/bk2.jpg" width = "230">
+                <img src="images/bk3.jpg" width = "230">
+                <img src="images/bk4.jpg" width = "230">
+                <img src="images/bk5.jpg" width = "230">
+                <img src="images/bk6.jpg" width = "230">
 </div>
