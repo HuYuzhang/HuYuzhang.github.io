@@ -1,6 +1,8 @@
-## Yuzhang Hu
+<!-- ![Image](images/hyz7.jpg) -->
 
-![Image](images/hyz7.jpg)
+<div  align="center">    
+ <img src="images/hyz7.jpg" width = "180" height = "200" align=center />
+</div>
 <!-- <img src="images/hyz6.jpg)" width="60"> -->
 
 Hi, I'm Hu Yuzhang. I am currently pursuing the Master degree in Peking University, advised by Prof. Jiaying Liu.
@@ -65,13 +67,16 @@ Many of these memories still impress me even today. I have set myself a few goal
 During my journey, I will always take many photos, and the  pleasant flavour of these experience can be recollected with them.
 I do not have advanced equipments like SLR camera so I just use my mobile phone. I'm glad to share the stories behind these phostos If you like some of them.
 
-![Image](images/im1.JPG)
-![Image](images/im2.JPG)
-![Image](images/im3.JPG)
-![Image](images/im4.JPG)
-![Image](images/im5_2.JPG)
-![Image](images/im6.JPG)
 
+
+<div class="row">
+                <img src="images/im1.JPG" width = "280">
+                <img src="images/im2.JPG" width = "280">
+                <img src="images/im3.JPG" width = "280">
+                <img src="images/im4.JPG" width = "280">
+                <img src="images/im5_2.JPG" width = "280">
+                <img src="images/im6.JPG" width = "280">
+</div>
 
 ### About Reading
 During my senior middle school time, I have little to go out and it seems that life is filled with finishing exercises after classes
@@ -79,9 +84,12 @@ and preparing for exams. At that time, I tried to develop the habit of reading w
 After entering college, I begain to use Douban, where everyone can share their opinions of books and films and even games with each other. [My Douban](https://www.douban.com/people/175875998/)
 I want to share some books that I like most.
 
-![Image](images/bk1.jpg)
-![Image](images/bk2.jpg)
-![Image](images/bk3.jpg)
-![Image](images/bk4.jpg)
-![Image](images/bk5.jpg)
-![Image](images/bk6.jpg)
+
+<div class="row">
+                <img src="images/bk1.JPG" width = "250">
+                <img src="images/bk2.JPG" width = "250">
+                <img src="images/bk3.JPG" width = "250">
+                <img src="images/bk4.JPG" width = "250">
+                <img src="images/bk5.JPG" width = "250">
+                <img src="images/bk6.JPG" width = "250">
+</div>
