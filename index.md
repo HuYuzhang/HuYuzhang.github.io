@@ -80,7 +80,7 @@ I do not have advanced equipments like SLR camera so I just use my mobile phone.
 ### About Reading
 During my senior middle school time, I have little to go out and it seems that life is filled with finishing exercises after classes
 and preparing for exams. At that time, I tried to develop the habit of reading when I am frustrated by endless exercises and exams. 
-After entering college, I begain to use Douban, where everyone can share their opinions of books and films and even games with each other. [My Douban](https://www.douban.com/people/175875998/)
+After entering college, I begain to use Douban, where everyone can share their opinions of books and films and even games with each other. Here is [My Douban](https://www.douban.com/people/175875998/).
 I want to share some books that I like most.
 
 
