@@ -7,7 +7,7 @@
 
 Hi, I'm Hu Yuzhang. I am currently pursuing the Master degree in Peking University, advised by Prof. Jiaying Liu.
 My research interests include video compression and image enhancement.
-I am also interested in football, cycling, train, mystery novels, geography and history of ancient East Asia.
+I am also interested in football, cycling, hiking, mystery novels, geography and history of ancient East Asia.
 You can contact me by mail: yuzhanghu@pku.edu.cn
 
 <!-- ### Markdown
@@ -40,8 +40,8 @@ Syntax highlighted code block
 
 ### Publication
 
-- Yuzhang Hu, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Memory-Augmented Auto-Regressive Network for Frame Recurrent Inter Prediction", IEEE International Symposium on Circuits and Systems (ISCAS), Seville, Spain, May 2020.
-- Yuzhang Hu, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Sensitivity-Aware Bit Allocation for Intermediate Deep Feature Compression", IEEE International Conference on Visual Communications and Image Processing (VCIP), Macau, China, December 2020.
+- **Yuzhang Hu**, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Memory-Augmented Auto-Regressive Network for Frame Recurrent Inter Prediction", *IEEE International Symposium on Circuits and Systems* (*ISCAS*), Seville, Spain, May 2020. [[pdf]](http://39.96.165.147/Pub%20Files/2020/hyz_iscas20.pdf)
+- **Yuzhang Hu**, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Sensitivity-Aware Bit Allocation for Intermediate Deep Feature Compression", *IEEE International Conference on Visual Communications and Image Processing* (*VCIP*), Macau, China, December 2020. [[pdf]](http://39.96.165.147/Pub%20Files/2020/hyz_vcip20.pdf)
 
 ### Skill
 - C++
@@ -69,13 +69,31 @@ I do not have advanced equipments like SLR camera so I just use my mobile phone.
 
 
 <div class="row">
-                <img src="images/im1.JPG" width = "250">
-                <img src="images/im2.JPG" width = "250">
-                <img src="images/im3.JPG" width = "250">
-                <img src="images/im4.JPG" width = "250">
-                <img src="images/im5_2.JPG" width = "250">
-                <img src="images/im6.JPG" width = "250">
+                <img src="images/im1.JPG" height = "180" width = "250">
+                <img src="images/im2.JPG" height = "180" width = "250">
+                <img src="images/im3.JPG" height = "180" width = "250">
+                <img src="images/im4.JPG" height = "180" width = "250">
+                <img src="images/im5_2.JPG" height = "180" width = "250">
+                <img src="images/im6.JPG" height = "180" width = "250">
+                <img src="images/im7.JPG" height = "180" width = "250">
+                <img src="images/im8.JPG" height = "180" width = "250">
+                <img src="images/im9.JPG" height = "180" width = "250">
 </div>
+
+### About My Bike
+
+I have a cool bike: Giant XTC 800. I ride to school every day by it. During weekends, it becomes my partner to explore this city. It is equipped with SHIMANO Deore and SHIMANO BL-MT200, it provides wonderful reliability and performance. The destinations include: the Greate Wall, the West Mountain, the Tanzhe Temple, and the Xinshougang Bridge. Here are some photos of it.
+
+<div class="row">
+                <img src="images/g1.JPG" height = "300" width = "400">
+                <img src="images/g2.JPG" height = "300" width = "400">
+                <!-- <img src="images/g5.JPG" height = "300" width = "400"> -->
+                <img src="images/g4.JPG" height = "300" width = "450">
+                <img src="images/g3.JPG" height = "300" width = "350">
+
+</div>
+
+
 
 ### About Reading
 During my senior middle school time, I have little to go out and it seems that life is filled with finishing exercises after classes
@@ -85,10 +103,12 @@ I want to share some books that I like most.
 
 
 <div class="row">
-                <img src="images/bk1.jpg" width = "230">
+                <img src="images/bk7.jpg" width = "230">
                 <img src="images/bk2.jpg" width = "230">
                 <img src="images/bk3.jpg" width = "230">
-                <img src="images/bk4.jpg" width = "230">
-                <img src="images/bk5.jpg" width = "230">
+                <img src="images/bk8.jpg" height= "325" width = "230">
+                <img src="images/bk9.jpg" height= "327" width = "230">
                 <img src="images/bk6.jpg" width = "230">
 </div>
+
+
