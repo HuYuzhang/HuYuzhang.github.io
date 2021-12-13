@@ -82,7 +82,7 @@ I do not have advanced equipments like SLR camera so I just use my mobile phone.
 
 ### About My Bike
 
-I have a cool bike: Giant XTC 800. I ride to school every day by it. During weekends, it becomes my partner to explore this city. It is equipped with SHIMANO Deore and SHIMANO BL-MT200, it provides wonderful reliability and performance. The destinations include: the Greate Wall, the West Mountain, the Tanzhe Temple, and the Xinshougang Bridge. Here are some photos of it.
+I have a cool bike: Giant XTC 800. I ride to school every day by it. During weekends, it becomes my partner to explore this city. It is equipped with SHIMANO Deore and SHIMANO BL-MT200, which provides wonderful reliability and performance. The destinations include: the Greate Wall, the West Mountain, the Tanzhe Temple, and the Xinshougang Bridge, *etc.*. Here are some photos of it.
 
 <div class="row">
                 <img src="images/g1.JPG" height = "300" width = "400">
