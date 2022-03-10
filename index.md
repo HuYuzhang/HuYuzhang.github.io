@@ -5,9 +5,9 @@
 </div>
 <!-- <img src="images/hyz6.jpg)" width="60"> -->
 
-Hi, I'm Hu Yuzhang. I am currently pursuing the Master degree in Peking University, advised by Prof. Jiaying Liu.
+Hi, I'm Hu Yuzhang. I am currently pursuing a Master degree at Peking University, advised by Prof. Jiaying Liu.
 My research interests include video compression and image enhancement.
-I am also interested in football, cycling, hiking, mystery novels, geography and history of ancient East Asia.
+I am also interested in football, cycling, hiking, mystery novels, geography, and the history of ancient East Asia.
 You can contact me by mail: yuzhanghu@pku.edu.cn
 
 <!-- ### Markdown
@@ -30,7 +30,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-``` -->
+​``` -->
 
 
 ### Experience
@@ -55,7 +55,7 @@ So that's all about my research. What I want to show next is how I enjoy the wor
 ### About Travel
 
 ![Image](images/map.png)
-Each time when I go to a new place, I will mark it in the Google Map (updating...). These are the cities where I have left my footprints up to now.
+Each time I go to a new place, I will mark it in the Google Map (updating...). These are the cities where I have left my footprints up to now.
 Many of these memories still impress me even today. I have set myself a few goals driven by my ambition to explore the world.
 
 1. Travel all the provinces in China before 2028.
@@ -63,8 +63,8 @@ Many of these memories still impress me even today. I have set myself a few goal
 3. Travel to all continents except Antarctica before 2048.
 
 ### About Photograph
-During my journey, I will always take many photos, and the  pleasant flavour of these experience can be recollected with them.
-I do not have advanced equipments like SLR camera so I just use my mobile phone. I'm glad to share the stories behind these phostos If you like some of them.
+During my journey, I will always take many photos, and the pleasant flavor of these experiences can be recollected with them.
+I do not have advanced equipment like SLR camera so I just use my mobile phone. I'm glad to share the stories behind these photos If you like some of them.
 
 
 
@@ -82,7 +82,7 @@ I do not have advanced equipments like SLR camera so I just use my mobile phone.
 
 ### About My Bike
 
-I have a cool bike: Giant XTC 800. I ride to school every day by it. During weekends, it becomes my partner to explore this city. It is equipped with SHIMANO Deore and SHIMANO BL-MT200, which provides wonderful reliability and performance. The destinations include: the Greate Wall, the West Mountain, the Tanzhe Temple, and the Xinshougang Bridge, *etc.*. Here are some photos of it.
+I have a cool bike: Giant XTC 800. I ride to school every day by it. During weekends, it becomes my partner to explore this city. It is equipped with SHIMANO Deore and SHIMANO BL-MT200, which provides wonderful reliability and performance. The destinations include the Greate Wall, the West Mountain, the Tanzhe Temple, and the Xinshougang Bridge, *etc.*. Here are some photos of it.
 
 <div class="row">
                 <img src="images/g1.JPG" height = "300" width = "400">
@@ -96,9 +96,9 @@ I have a cool bike: Giant XTC 800. I ride to school every day by it. During week
 
 
 ### About Reading
-During my senior middle school time, I have little to go out and it seems that life is filled with finishing exercises after classes
+During my senior middle school time, I have little time to go out and it seems that life is filled with finishing exercises after classes
 and preparing for exams. At that time, I tried to develop the habit of reading when I am frustrated by endless exercises and exams. 
-After entering college, I begain to use Douban, where everyone can share their opinions of books and films and even games with each other. Here is [My Douban](https://www.douban.com/people/175875998/).
+After entering college, I began to use Douban, where everyone can share their opinions of books and films and even games with each other. Here is [My Douban](https://www.douban.com/people/175875998/).
 I want to share some books that I like most.
 
 
@@ -112,3 +112,5 @@ I want to share some books that I like most.
 </div>
 
 
+
+```
