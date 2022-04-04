@@ -93,6 +93,12 @@ I have a cool bike: Giant XTC 800. I ride to school every day by it. During week
 
 </div>
 
+#### Friends of My Bike
+<div class="row">
+                <img src="images/friend1.JPG" height = "300" width = "350">
+                <img src="images/friend2.JPG" height = "300" width = "450">
+</div>
+
 
 
 ### About Reading
