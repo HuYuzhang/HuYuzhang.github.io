@@ -33,15 +33,20 @@ Syntax highlighted code block
 ​``` -->
 
 
-### Experience
+### Education
 
-- Bachelor in Computer Science, School of Electronics Engineering and Computer Science (EECS).
-- Master student in Computer Science, Acedemy for Advanced Interdisciplinary Studies (AAIS).
+- Bachelor in Computer Science, EECS, Peking University.
+- Master student in Computer Science, AAIS, Peking University.
+
 
 ### Publication
 - **Yuzhang Hu**, Wenhan Yang, Jiaying Liu, Zongming Guo. "Deep Inter Prediction with Error-Corrected Auto-Regressive Network for Video Coding", *ACM Transactions on Multimedia Computing Communications and Applications* (*TOMM*), March 2022. [[pdf]](https://doi.acm.org/?doi=3528173)
+- **Yuzhang Hu**, Wenhan Yang, Jiaying Liu, Zongming Guo. "Rain-Prior Injected Knowledge Distillation for Single Image Deraining", *Accepted by IEEE International Conference on Image Processing* (*ICIP*), Bordeaux, France, Oct. 2022.
 - **Yuzhang Hu**, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Memory-Augmented Auto-Regressive Network for Frame Recurrent Inter Prediction", *IEEE International Symposium on Circuits and Systems* (*ISCAS*), Seville, Spain, May 2020. [[pdf]](http://39.96.165.147/Pub%20Files/2020/hyz_iscas20.pdf)
 - **Yuzhang Hu**, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Sensitivity-Aware Bit Allocation for Intermediate Deep Feature Compression", *IEEE International Conference on Visual Communications and Image Processing* (*VCIP*), Macau, China, December 2020. [[pdf]](http://39.96.165.147/Pub%20Files/2020/hyz_vcip20.pdf)
+
+### Experience
+- Deployment and Acceleration of Real-Time Super-Reolution Neural-Network on Edge Devices, Internship in Amazon Lab126.
 
 ### Skill
 - C++
@@ -117,7 +122,3 @@ I want to share some books that I like most.
                 <img src="images/bk9.jpg" height= "327" width = "230">
                 <img src="images/bk6.jpg" width = "230">
 </div>
-
-
-
-```
