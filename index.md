@@ -59,7 +59,7 @@ So that's all about my research. What I want to show next is how I enjoy the wor
 
 ### About Travel
 
-![Image](images/map-220315.png)
+![Image](images/map-220801.png)
 Each time I go to a new place, I will mark it in the Google Map (updating...). These are the cities where I have left my footprints up to now.
 Many of these memories still impress me even today. I have set myself a few goals driven by my ambition to explore the world.
 
@@ -122,3 +122,4 @@ I want to share some books that I like most.
                 <img src="images/bk9.jpg" height= "327" width = "230">
                 <img src="images/bk6.jpg" width = "230">
 </div>
+```
