@@ -74,15 +74,15 @@ I do not have advanced equipment like SLR camera so I just use my mobile phone. 
 
 
 <div class="row">
+                <img src="images/im9.JPG" height = "180" width = "250">
                 <img src="images/im_snow.jpg" height = "180" width = "250">
                 <img src="images/im2.JPG" height = "180" width = "250">
-                <img src="images/im_ulcb.JPG" height = "180" width = "250">
-                <img src="images/im_take.jpg" height = "180" width = "250">
+                <img src="images/im_ulcb.jpg" height = "180" width = "250">
                 <img src="images/im5_2.JPG" height = "180" width = "250">
-                <img src="images/im_tzw2.JPG" height = "180" width = "250">
+                <img src="images/im_tzw2.jpg" height = "180" width = "250">
                 <img src="images/im7.JPG" height = "180" width = "250">
                 <img src="images/im8.JPG" height = "180" width = "250">
-                <img src="images/im9.JPG" height = "180" width = "250">
+                <img src="images/im_bh.jpg" height = "180" width = "250">
 </div>
 
 ### About My Bike
