@@ -74,15 +74,15 @@ I do not have advanced equipment like SLR camera so I just use my mobile phone. 
 
 
 <div class="row">
-                <img src="images/im9.JPG" height = "180" width = "250">
+                <img src="images/im_hhl.jpeg" height = "180" width = "250">
                 <img src="images/im_snow.jpg" height = "180" width = "250">
                 <img src="images/im2.JPG" height = "180" width = "250">
                 <img src="images/im_ulcb.jpg" height = "180" width = "250">
-                <img src="images/im5_2.JPG" height = "180" width = "250">
+                <img src="images/im_ws.jpeg" height = "180" width = "250">
                 <img src="images/im_tzw2.jpg" height = "180" width = "250">
                 <img src="images/im7.JPG" height = "180" width = "250">
                 <img src="images/im8.JPG" height = "180" width = "250">
-                <img src="images/im_bh.jpg" height = "180" width = "250">
+                <img src="images/im_wh.jpeg" height = "180" width = "250">
 </div>
 
 ### About My Bike
@@ -122,4 +122,3 @@ I want to share some books that I like most.
                 <img src="images/bk9.jpg" height= "327" width = "230">
                 <img src="images/bk6.jpg" width = "230">
 </div>
-```
