@@ -71,6 +71,8 @@ Many of these memories still impress me even today. I have set myself a few goal
 During my journey, I will always take many photos, and the pleasant flavor of these experiences can be recollected with them.
 I do not have advanced equipment like SLR camera so I just use my mobile phone. I'm glad to share the stories behind these photos If you like some of them.
 
+***News!*** I'm honored to become the chief assistant of [Jamin3q](https://github.com/Jasmin3q) on October 25th, 2022. Please wait to see more photography works under her guidance!
+
 
 
 <div class="row">
