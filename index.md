@@ -124,3 +124,22 @@ I want to share some books that I like most.
                 <img src="images/bk9.jpg" height= "327" width = "230">
                 <img src="images/bk6.jpg" width = "230">
 </div>
+
+
+### About Game
+I like games. Some are my partners to accompany me when I am lonely during my childhood. Some can broaden my scope by experiencing a different life.
+Some teach me lots of historical and geographic knowledge, and even driving me to learn a foreign language.
+They deserve the praise as "the ninth category of art".
+I want to share some games that have great impact on my life.
+
+
+- [Tomb Raider](https://store.steampowered.com/app/203160/Tomb_Raider/)
+- [Assassin's Creed II](https://www.ubisoft.com/en-us/game/assassins-creed/assassins-creed-ii)
+- [The Last of US](https://www.playstation.com/en-us/games/the-last-of-us-part-i/)
+- [Command & Conquer: Red Alert 2](https://game.chronodivide.com/)
+- [Super Mario Odyssey](https://www.nintendo.com/store/products/super-mario-odyssey-switch/)
+- [信長の野望・創造](http://www.gamecity.ne.jp/souzou/)
+- [三國志１１](https://www.gamecity.ne.jp/sangokushi/11wpk/)
+- [梦幻西游](https://xyq.163.com/)
+
+Also, my PlayStation Network id is "ikusyou", looking forward to more game friends :-)
