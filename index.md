@@ -51,7 +51,9 @@ Syntax highlighted code block
 
 
 ### Experience
-- Deployment and Acceleration of Real-Time Super-Reolution Neural-Network on Edge Devices, Internship in Amazon Lab126.
+- Deployment and Acceleration of Real-Time Super-Reolution Neural-Network on Edge Devices, Internship in Amazon Lab126, Beijing.
+- Algorithm Engineer of Video Coding, Full-time Job in Alibaba Cloud, Hangzhou.
+
 
 ### Skill
 - C++
