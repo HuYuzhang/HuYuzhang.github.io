@@ -7,7 +7,7 @@
 
 Hi, I'm Hu Yuzhang. I am currently pursuing a Master degree at Peking University, advised by Prof. Jiaying Liu.
 My research interests include video compression and image enhancement.
-I am also interested in football, cycling, hiking, mystery novels, geography, and the history of ancient East Asia.
+I am also interested in football, cycling, badminton, hiking, mystery novels, geography, and the history of ancient East Asia.
 You can contact me by mail: yuzhanghu@pku.edu.cn
 
 <!-- ### Markdown
@@ -41,9 +41,14 @@ Syntax highlighted code block
 
 ### Publication
 - **Yuzhang Hu**, Wenhan Yang, Jiaying Liu, Zongming Guo. "Deep Inter Prediction with Error-Corrected Auto-Regressive Network for Video Coding", *ACM Transactions on Multimedia Computing Communications and Applications* (*TOMM*), March 2022. [[pdf]](https://doi.acm.org/?doi=3528173)
-- **Yuzhang Hu**, Wenhan Yang, Jiaying Liu, Zongming Guo. "Rain-Prior Injected Knowledge Distillation for Single Image Deraining", *Accepted by IEEE International Conference on Image Processing* (*ICIP*), Bordeaux, France, Oct. 2022. [[pdf]](http://39.96.165.147/Pub%20Files/2022/hyz_icip22.pdf)
+- **Yuzhang Hu**, Wenhan Yang, Jiaying Liu, Zongming Guo. "Rain-Prior Injected Knowledge Distillation for Single Image Deraining", *IEEE International Conference on Image Processing* (*ICIP*), Bordeaux, France, Oct. 2022. [[pdf]](http://39.96.165.147/Pub%20Files/2022/hyz_icip22.pdf)
 - **Yuzhang Hu**, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Memory-Augmented Auto-Regressive Network for Frame Recurrent Inter Prediction", *IEEE International Symposium on Circuits and Systems* (*ISCAS*), Seville, Spain, May 2020. [[pdf]](http://39.96.165.147/Pub%20Files/2020/hyz_iscas20.pdf)
 - **Yuzhang Hu**, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Sensitivity-Aware Bit Allocation for Intermediate Deep Feature Compression", *IEEE International Conference on Visual Communications and Image Processing* (*VCIP*), Macau, China, December 2020. [[pdf]](http://39.96.165.147/Pub%20Files/2020/hyz_vcip20.pdf)
+- **Yuzhang Hu**, Wenhan Yang, Jiaying Liu, Zongming Guo. "Collaborative Spatial-Temporal Distillation for Efficient Video Deraining", *Accepted by IEEE International Conference on Image Processing* (*ICME*), Brisbane, Australia, July. 2023.
+- Minghao Liu, Wenhan Yang, **Yuzhang Hu**, and Jiaying Liu. “Dual Prompt Learning for Continual Rain Removal from Single Images”, *Under Submission*.
+- Minghao Liu, Jiaxuan Xie, **Yuzhang Hu**, Wenhan Yang, and Jiaying Liu. “Dual Prompt Learning for Continual Rain Removal from Single Images”, *Under Submission*.
+
+
 
 ### Experience
 - Deployment and Acceleration of Real-Time Super-Reolution Neural-Network on Edge Devices, Internship in Amazon Lab126.
@@ -71,7 +76,7 @@ Many of these memories still impress me even today. I have set myself a few goal
 During my journey, I will always take many photos, and the pleasant flavor of these experiences can be recollected with them.
 I do not have advanced equipment like SLR camera so I just use my mobile phone. I'm glad to share the stories behind these photos If you like some of them.
 
-***News!*** I'm honored to become the chief assistant of [Jasmin3q](https://github.com/Jasmin3q). Please wait to see more photography works under her guidance!
+<!-- ***News!*** I'm honored to become the chief assistant of [Jasmin3q](https://github.com/Jasmin3q). Please wait to see more photography works under her guidance! -->
 
 
 
