@@ -51,15 +51,15 @@ Syntax highlighted code block
 
 
 ### Experience
-- Deployment and Acceleration of Real-Time Super-Reolution Neural-Network on Edge Devices, Internship in Amazon Lab126, Beijing.
-- Algorithm Engineer of Video Coding, Full-time Job in Alibaba Cloud, Hangzhou.
+- Deployment and Acceleration of Real-Time Super-Reolution Neural-Network on Edge Devices, Internship in Amazon Lab126, Beijing, from 2022.6 to 2022.10.
+- Algorithm Engineer of Video Coding and Processing, Full-time Job in Alibaba Cloud, Hangzhou, will start from 2023.7.
 
 
 ### Skill
-- C++
-- Python
-- PyTorch
-- 日本語 (JLPT N2)
+- C++, Python
+- PyTorch, TensorFlow
+- HEVC, VVC
+- Chinese (Mandarin and Shanghainese), English (CET-6), Japanese (JLPT N2)
 
 ------------------------------------
 So that's all about my research. What I want to show next is how I enjoy the world.
