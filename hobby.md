@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Hobby
+ref: hobby
 ---
-
-## Hobby
 
 ### Reading
 During my senior middle school time, I have little time to go out and it seems that life is filled with finishing exercises after classes

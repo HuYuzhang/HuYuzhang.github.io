@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Travel
+ref: travel
 ---
 
 ### Footprint
@@ -45,7 +46,7 @@ I have a cool bike: Giant XTC 800. I ride to school every day by it. During week
 
 </div>
 
-#### Friends of My Bike
+### Friends of My Bike
 My bike is so lucky that it has some bike-friends, which makes all journeys warm and filled with happiness. I want to represent my bike to thank them all here. Namely, acknowledgment :)
 <div class="row">
                 <img src="images/friend1.JPG" height = "300" width = "350">
