@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Hobby
 ---
 
 ## Hobby
@@ -38,3 +39,5 @@ I want to share some games that have great impact on my life.
 - [梦幻西游](https://xyq.163.com/)
 
 Also, my PlayStation Network id is "ikusyou", looking forward to more game friends :-)
+
+[Go to the Home Page](https://huyuzhang.github.io)

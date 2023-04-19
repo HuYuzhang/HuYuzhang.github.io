@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Travel
 ---
-
-## Travel
 
 ### Footprint
 ![Image](images/map-220801.png)
@@ -52,3 +51,5 @@ My bike is so lucky that it has some bike-friends, which makes all journeys warm
                 <img src="images/friend1.JPG" height = "300" width = "350">
                 <img src="images/friend2.JPG" height = "300" width = "450">
 </div>
+
+[Go to the Home Page](https://huyuzhang.github.io)
