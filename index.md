@@ -61,7 +61,9 @@ Syntax highlighted code block
 - HEVC, VVC
 - Chinese (Mandarin and Shanghainese), English (CET-6), Japanese (JLPT N2)
 
+------------------------------------
+So that's all about my research. What I want to show next is how I enjoy the world.
 
-<button name="button" onclick="https://huyuzhang.github.io/travel">Travel</button>
+[About My Travel](https://huyuzhang.github.io/travel)
 
-<button name="button" onclick="https://huyuzhang.github.io/hobby">Hobby</button>
+[About My Hobby](https://huyuzhang.github.io/hobby)
