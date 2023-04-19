@@ -62,6 +62,6 @@ Syntax highlighted code block
 - Chinese (Mandarin and Shanghainese), English (CET-6), Japanese (JLPT N2)
 
 
-{% include button.html url="https://huyuzhang.github.io/travel" %}
+<button name="button" onclick="https://huyuzhang.github.io/travel">Travel</button>
 
-{% include button.html url="https://huyuzhang.github.io/hobby" %}
+<button name="button" onclick="https://huyuzhang.github.io/hobby">Hobby</button>
