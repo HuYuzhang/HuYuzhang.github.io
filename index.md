@@ -35,8 +35,8 @@ Syntax highlighted code block
 
 ### Education
 
-- Bachelor in Computer Science, EECS, Peking University.
-- Master student in Computer Science, AAIS, Peking University.
+- Bachelor in Computer Science, EECS, Peking University, 2016-2020.
+- Master student in Computer Science, AAIS, Peking University, 2020-2023.
 
 
 ### Publication
@@ -66,7 +66,8 @@ So that's all about my research. What I want to show next is how I enjoy the wor
 
 <div class="row">
     <a href="https://huyuzhang.github.io/travel"><img src="images/travel-cover.png" height = "90"></a>
-    <a href="https://huyuzhang.github.io/hobby"><img src="images/hobby-cover.png" height = "90"></a>         
+    <a href="https://huyuzhang.github.io/hobby"><img src="images/hobby-cover.png" height = "90"></a>
+    <a href="https://huyuzhang.github.io/bike"><img src="images/bike-cover.png" height = "90"></a>         
 </div>
 
 <!-- [About My Travel](https://huyuzhang.github.io/travel)
