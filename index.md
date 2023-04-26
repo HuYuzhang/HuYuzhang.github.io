@@ -64,6 +64,11 @@ Syntax highlighted code block
 ------------------------------------
 So that's all about my research. What I want to show next is how I enjoy the world.
 
-[About My Travel](https://huyuzhang.github.io/travel)
+<div class="row">
+    <a href="https://huyuzhang.github.io/travel"><img src="images/travel-cover.png" height = "90"></a>
+    <a href="https://huyuzhang.github.io/travel"><img src="images/hobby-cover.png" height = "90"></a>         
+</div>
 
-[About My Hobby](https://huyuzhang.github.io/hobby)
+<!-- [About My Travel](https://huyuzhang.github.io/travel)
+
+[About My Hobby](https://huyuzhang.github.io/hobby) -->
