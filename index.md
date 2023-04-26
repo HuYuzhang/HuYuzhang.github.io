@@ -66,7 +66,7 @@ So that's all about my research. What I want to show next is how I enjoy the wor
 
 <div class="row">
     <a href="https://huyuzhang.github.io/travel"><img src="images/travel-cover.png" height = "90"></a>
-    <a href="https://huyuzhang.github.io/travel"><img src="images/hobby-cover.png" height = "90"></a>         
+    <a href="https://huyuzhang.github.io/hobby"><img src="images/hobby-cover.png" height = "90"></a>         
 </div>
 
 <!-- [About My Travel](https://huyuzhang.github.io/travel)
