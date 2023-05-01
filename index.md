@@ -44,9 +44,9 @@ Syntax highlighted code block
 - **Yuzhang Hu**, Wenhan Yang, Jiaying Liu, Zongming Guo. "Rain-Prior Injected Knowledge Distillation for Single Image Deraining", *IEEE International Conference on Image Processing* (*ICIP*), Bordeaux, France, Oct. 2022. [[pdf]](http://39.96.165.147/Pub%20Files/2022/hyz_icip22.pdf)
 - **Yuzhang Hu**, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Memory-Augmented Auto-Regressive Network for Frame Recurrent Inter Prediction", *IEEE International Symposium on Circuits and Systems* (*ISCAS*), Seville, Spain, May 2020. [[pdf]](http://39.96.165.147/Pub%20Files/2020/hyz_iscas20.pdf)
 - **Yuzhang Hu**, Sifeng Xia, Wenhan Yang, Jiaying Liu. "Sensitivity-Aware Bit Allocation for Intermediate Deep Feature Compression", *IEEE International Conference on Visual Communications and Image Processing* (*VCIP*), Macau, China, Dec. 2020. [[pdf]](http://39.96.165.147/Pub%20Files/2020/hyz_vcip20.pdf)
-- **Yuzhang Hu**, Wenhan Yang, Jiaying Liu, Zongming Guo. "Collaborative Spatial-Temporal Distillation for Efficient Video Deraining", *Accepted by IEEE International Conference on Image Processing* (*ICME*), Brisbane, Australia, July 2023.
+- **Yuzhang Hu**, Wenhan Yang, Jiaying Liu, Zongming Guo. "Collaborative Spatial-Temporal Distillation for Efficient Video Deraining", *Accepted by IEEE International Conference on Multimedia and Expo* (*ICME*), Brisbane, Australia, July 2023.
 - Minghao Liu, Wenhan Yang, **Yuzhang Hu**, and Jiaying Liu. “Dual Prompt Learning for Continual Rain Removal from Single Images”, *Accepted by International Joint Conference on Artificial Intelligence* (*IJCAI*), Macao, China, Aug. 2023.
-- Minghao Liu, Jiaxuan Xie, **Yuzhang Hu**, Wenhan Yang, and Jiaying Liu. “Comprehensive Augmented Domain Adaptation for Image Segmentation Under Rainy Conditions”, *Under Submission*.
+- Minghao Liu, Jiaxuan Xie, **Yuzhang Hu**, Wenhan Yang, and Jiaying Liu. “Comprehensive Augmented Domain Adaptation for Image Segmentation Under Rainy Conditions”, *Accepted by IEEE International Conference on Multimedia and Expo Workshop* (*ICMEW*), Brisbane, Australia, July 2023.
 
 
 
