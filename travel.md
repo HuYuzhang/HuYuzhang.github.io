@@ -5,7 +5,7 @@ ref: travel
 ---
 
 ### Footprint
-![Image](images/map-220801.png)
+![Image](images/map-230621.png)
 Each time I go to a new place, I will mark it in the Google Map (updating...). These are the cities where I have left my footprints up to now.
 Many of these memories still impress me even today. I have set myself a few goals driven by my ambition to explore the world.
 
